@@ -1,10 +1,13 @@
-[Homepage](http://rubyworks.github.com/history) |
-[Report Issue](http://github.com/rubyworks/history/issues) |
-[Source Code](http://github.com/rubyworks/history)
-( [![Build Status](https://secure.travis-ci.org/rubyworks/indexer.png)](http://travis-ci.org/rubyworks/indexer) )
-
-
 # History
+
+> **ARCHIVED.** History is an old-school idea from a time when hand-curated
+> HISTORY / CHANGES files were the primary record of a project's evolution.
+> Over the years Git commits themselves have effectively become the history
+> log, and in the age of AI-assisted development the need to parse free-form
+> HISTORY files programmatically has all but vanished. Preserved here as a
+> historical curiosity. No further development is planned.
+
+[Source Code](http://github.com/rubyworks/history)
 
 History is a HISTORY file parser. It can parse common HISTORY file layouts
 and provide the contents in a structured model. This can be useful for
